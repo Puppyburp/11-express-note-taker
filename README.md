@@ -10,5 +10,5 @@ A simple application that can be used to write, save, and delete notes. This app
 
 ## Functionality
 
-[Note Taker Demo](public/assets/note-taker-demo.png)
+[Note Taker Demo](/public/assets/note-taker-demo.png)
 
