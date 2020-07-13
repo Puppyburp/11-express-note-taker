@@ -68,3 +68,7 @@ html, body {
   padding: 20px;
   cursor: pointer;
 }
+
+.navbar {
+  border-bottom: orange 3px solid;
+}
